@@ -1,4 +1,4 @@
-I put some of the components I've made in the past into a grid layout. (ironically using *flexbox*) 💀
+I put some of the components I've made in the past into a grid layout. (ironically using *flexbox*) 📦💀
 
 __*(Possible re-engineering coming)*__
 
